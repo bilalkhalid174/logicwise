@@ -1,6 +1,10 @@
 import "./Navbar.css";
 
+
 const Navbar = () => {
+
+
+
     return (
     <nav className="navbar"> 
         <img src="https://logicwise.co/logo.png" alt="LogicWise Logo" className="logo" />

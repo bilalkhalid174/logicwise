@@ -101,7 +101,6 @@
   border-radius: 6px;
   border: none;
   outline: none;
-  flex: 1 1 200px;        
   min-width: 150px;
   background-color: #020d27;
   color: #fff;
@@ -149,5 +148,58 @@
 }
 
 
+@media (max-width: 600px) {
+  .footer {
+    padding: 20px 10px ;
+  }
 
+  .footer-top {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .footer-col {
+    min-width: 100%;
+  }
+
+  .footer-desc {
+    font-size: 13px;
+  }
+
+  .footer-contact p {
+    font-size: 13px;
+  }
+
+  .footer-newsletter {
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+  }
+
+  .newsletter-form {
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+  }
+
+  .newsletter-form input {
+    width: 100%;
+  }
+  
+  .newsletter-form button {
+    width: 100%;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+
+  .footer-links {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+}
 

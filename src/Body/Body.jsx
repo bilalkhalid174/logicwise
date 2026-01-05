@@ -5,8 +5,11 @@ import workData from "./Card.jsx";
 const Body = () => {
     return (
     <section className="section">
+
+
+    {/* First Div Hero section */}
+
     <div className="hero-section">
-        {/* First Div Hero section */}
     <div className="hero-left">
         <h1>Building Tomorrow's Solutions with <span className="span"> AI & Automation</span></h1>
         <p>We specialize in computer vision, AI agent workflows, modern web development, and intelligent automation solutions that transform how businesses operate and scale.Discover Solutions</p>
@@ -336,6 +339,8 @@ const Body = () => {
 
     );
 };
+
+
 
 
 export default Body;
