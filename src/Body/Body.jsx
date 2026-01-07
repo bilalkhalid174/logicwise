@@ -124,117 +124,119 @@ const Body = () => {
             <p>The Technology Stack We Use to Make Optimal Solutions</p>
         </div>
         <div className="mover-container">
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/python" alt="python"></img>
-            <span>Python</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow"></img>
-            <span>TensorFlow</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/pytorch" alt="pytorch"></img>
-            <span>PyTorch</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/opencv" alt="opencv"></img>
-            <span>OpenCV</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/langchain" alt="langchain"></img>
-            <span>LangChain</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/react" alt="react"></img>
-            <span>React</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/nextdotjs" alt="nextdotjs"></img>
-            <span>Next.js</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/nodedotjs" alt="nodedotjs"></img>
-            <span>Node.js</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi"></img>
-            <span>FastAPI</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/flutter" alt="flutter"></img>
-            <span>Flutter</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/docker" alt="docker"></img>
-            <span>Docker</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/amazonaws" alt="amazonaws"></img>
-            <span>Amazon AWS</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/mongodb" alt="mongodb"></img>
-            <span>MongoDB</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql"></img>
-            <span>PostgreSQL</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/python" alt="python"></img>
-            <span>Python</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow"></img>
-            <span>TensorFlow</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/pytorch" alt="pytorch"></img>
-            <span>PyTorch</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/opencv" alt="opencv"></img>
-            <span>OpenCV</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/langchain" alt="langchain"></img>
-            <span>LangChain</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/react" alt="react"></img>
-            <span>React</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/nextdotjs" alt="nextdotjs"></img>
-            <span>Next.js</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/nodedotjs" alt="nodedotjs"></img>
-            <span>Node.js</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi"></img>
-            <span>FastAPI</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/flutter" alt="flutter"></img>
-            <span>Flutter</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/docker" alt="docker"></img>
-            <span>Docker</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/amazonaws" alt="amazonaws"></img>
-            <span>Amazon AWS</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/mongodb" alt="mongodb"></img>
-            <span>MongoDB</span>
-        </div>
-        <div className="mover-item1">
-            <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql"></img>
-            <span>PostgreSQL</span>
+            <div className="mover-item-2">
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/python" alt="python"></img>
+                    <span>Python</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow"></img>
+                    <span>TensorFlow</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/pytorch" alt="pytorch"></img>
+                    <span>PyTorch</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/opencv" alt="opencv"></img>
+                    <span>OpenCV</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/langchain" alt="langchain"></img>
+                    <span>LangChain</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/react" alt="react"></img>
+                    <span>React</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/nextdotjs" alt="nextdotjs"></img>
+                    <span>Next.js</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/nodedotjs" alt="nodedotjs"></img>
+                    <span>Node.js</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi"></img>
+                    <span>FastAPI</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/flutter" alt="flutter"></img>
+                    <span>Flutter</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/docker" alt="docker"></img>
+                    <span>Docker</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/amazonaws" alt="amazonaws"></img>
+                    <span>Amazon AWS</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/mongodb" alt="mongodb"></img>
+                    <span>MongoDB</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql"></img>
+                    <span>PostgreSQL</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/python" alt="python"></img>
+                    <span>Python</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow"></img>
+                    <span>TensorFlow</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/pytorch" alt="pytorch"></img>
+                    <span>PyTorch</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/opencv" alt="opencv"></img>
+                    <span>OpenCV</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/langchain" alt="langchain"></img>
+                    <span>LangChain</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/react" alt="react"></img>
+                    <span>React</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/nextdotjs" alt="nextdotjs"></img>
+                    <span>Next.js</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/nodedotjs" alt="nodedotjs"></img>
+                    <span>Node.js</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi"></img>
+                    <span>FastAPI</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/flutter" alt="flutter"></img>
+                    <span>Flutter</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/docker" alt="docker"></img>
+                    <span>Docker</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/amazonaws" alt="amazonaws"></img>
+                    <span>Amazon AWS</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/mongodb" alt="mongodb"></img>
+                    <span>MongoDB</span>
+                </div>
+                <div className="mover-item1">
+                    <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql"></img>
+                    <span>PostgreSQL</span>
+                </div>
         </div>
         </div>
     </div>
