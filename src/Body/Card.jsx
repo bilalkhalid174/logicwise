@@ -1,5 +1,4 @@
 import React from "react";
-
 const workData = [
     {
     img: "https://logicwise.co/mailmind.jpg",
@@ -45,5 +44,4 @@ const workData = [
     buttonText: "Learn More",
     },
 ];  
-
 export default workData;
